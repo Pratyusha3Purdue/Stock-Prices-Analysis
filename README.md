@@ -1,5 +1,5 @@
 # StockPricesAnalysis
-### Understanding the trends in stock prices and volumes traded over three months time of two stocks : Bayer and BioNtech and gain insights for investors.
+### Understanding the trends in stock prices and volumes traded over three months time of two stocks : Bayer and BioNtech to gain insights for investors.
 
 **Bayer (Stock code: BAYRX)** is a world’s leading company in the fields of health and nutrition. Bayer is guided by the strategic purpose of “Science for a better life” and delivers breakthrough innovations in healthcare and agriculture.
 Bayer AG engages in the development, manufacture and distribution of products in the areas of health care, nutrition and high-tech materials. It operates through the following segments: Pharmaceuticals, Consumer Health, Crop Science, Animal Health and Covestro. The firm works on a) Crop Science (It’s mission is to transform agriculture and drive a more sustainable food system), b) Pharmaceuticals ( focus on researching, developing and marketing innovative medicines), and c) Consumer Health (Firm provides consumers with products, services and information that empower them to improve their everyday health).
