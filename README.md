@@ -45,9 +45,13 @@ for $ 10,000 invested in Bayer Aktiengesellschaf on July 10th, the value at the 
 
 ## B. Hypothesis testing:
 
-We have Analysts saying that the stock price of both the companies are going to fall in September as compared to August
-To check this we have executed the code to do hypothesis test for the data set, and come up with the conclusions as follows:
+#### Will the stock Fall or Rise?
+We have Analysts speculating that the stock price of both the companies are going to fall in September as compared to August
+
+To check this we have executed the code to do hypothesis test for the data set, (using the mean and std dev calulated from EDA in "PART A") and came up with the conclusions as follows:
+
 There is evidence to suggest that the average stock close price of Bayer Aktiengesellschaft in September has fallen compared to August.
+
 There is no significant evidence to suggest that the average stock close price of BioNTech SE in September has fallen compared to August.
 
 ## C. Time Series Analysis:
